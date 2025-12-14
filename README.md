@@ -3,6 +3,15 @@
 This repository contains my learning journey with **Java**, **Spring Boot**, **Microservices**, **Docker**, and **Cloud** technologies.  
 It includes sample projects, experiments, and practice code as I explore modern backend development.
 
+spring-boot-jpa-demo/
+├── controller/
+├── service/
+├── repository/
+├── entity/
+├── dto/
+└── application.properties
+
+
 ## 📚 Learning Goals
 - Build REST APIs with Spring Boot
 - Understand Microservices architecture
